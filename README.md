@@ -15,5 +15,3 @@ Blog
 <br>[Tkinter Drag and Drop 리스트 박스 적용 예시 영상 (코딩헤윰)](https://blog.naver.com/ejmhuse2/222291995060)
 <br>[Tkinter Drag & Drop(DnD) 리스트박스 적용 방법 (코딩헤윰)](https://blog.naver.com/ejmhuse2/222292369485)
 <br><br>
-
-y
