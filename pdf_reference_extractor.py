@@ -1,3 +1,7 @@
+# Reference: Sourceforge
+# TkinterDnD (klappnase)
+# https://sourceforge.net/projects/tkinterdnd/files/TkinterDnD2/
+
 # -*- coding: utf-8 -*-
 
 import os
